@@ -22,6 +22,8 @@ Results-driven Junior IT Professional based in Montreal, specializing in AWS Clo
 ---
 
 ## CERTIFICATIONS
+
+* **AWS Certified Solutions Architect – Associate (SAA-C03))** — Amazon Web Services
 * **AWS Certified Cloud Practitioner (CLF-C02)** — Amazon Web Services
 * **Linux Foundation Certified Foundations** — The Linux Foundation
 * **Cisco Networking Certification (Foundational)** — Cisco Academic Partner
