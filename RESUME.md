@@ -1,49 +1,152 @@
-# AWS CLOUD & NETWORK ENGINEER (JUNIOR)
+# 👋 Hi, I'm Raouf Yahiaoui
 
-**Location:** Montreal, QC | **Availability:** Open to local & international remote roles  
-**Profiles:** [GitHub Profile](https://github.com/yahiaouiraouf216) 
+## Junior DevOps / Cloud Engineer
 
----
+## Junior DevOps / Cloud Engineer
+4
+ 
+5
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraformite
+6
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=dge&logo=docker&logoColor=white
+7
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColortps://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=oColor=black
+8
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python=white
 
-## PROFESSIONAL SUMMARY
-Results-driven Junior IT Professional based in Montreal, specializing in AWS Cloud Architecture, secure network topologies, and robust infrastructure deployments. Leverages a solid foundational background in Cisco routing, switching, and Linux systems administration. Proven ability to design and validate high-availability, multi-AZ network architectures. Rapidly expanding technical capabilities into DevOps methodologies, Infrastructure as Code (IaC), and automated deployment pipelines.
+AWS Certified Solutions Architect Associate (SAA-C03) passionate about Cloud Infrastructure, Automation, CI/CD and Container Technologies.
 
----
-
-## TECHNICAL TOOLKIT
-
-| Category | Technologies & Skills |
-| :--- | :--- |
-| **Cloud Computing** | AWS (VPC, EC2, NAT Gateway, Internet Gateway, Route Tables, IAM) |
-| **Networking** | Subnetting (IPv4 CIDR planning), Routing & Switching, Network Isolation, Infrastructure Security |
-| **Operating Systems** | Linux Foundations, Ubuntu/Debian, CentOS/RHEL, Bash Shell Scripting |
-| **DevOps & Automation** | Git/GitHub version control (Current), Terraform Infrastructure as Code (Upcoming) |
-
----
-
-## CERTIFICATIONS
-
-* **AWS Certified Solutions Architect – Associate (SAA-C03))** — Amazon Web Services
-* **AWS Certified Cloud Practitioner (CLF-C02)** — Amazon Web Services
-* **Linux Foundation Certified Foundations** — The Linux Foundation
-* **Cisco Networking Certification (Foundational)** — Cisco Academic Partner
-  * _Skills:_ IPv4/IPv6 Subnetting, Routing & Switching fundamentals, VLANs, and Network Troubleshooting.
-* *In Progress:* **AWS Certified Solutions Architect – Associate (SAA-C03)** — Target completion: Current Month
+Based in Montreal, Canada 🇨🇦
 
 ---
 
-## PROJECTS
+## 🚀 About Me
 
-### AWS Multi-AZ Production-Ready VPC Network
-**Core Tech Stack:** Amazon VPC, Amazon EC2, NAT Gateway, Internet Gateway, Route Tables, Elastic IPs
-* Designed and thoroughly validated a highly available, fault-tolerant network infrastructure across multiple Availability Zones (AZ A and AZ B) adhering to AWS SAA-C03 architectural design principles.
-* Segmented public subnets (`10.0.1.0/24`, `10.0.2.0/24`) and private subnets (`10.0.3.0/24`, `10.0.4.0/24`) within a `10.0.0.0/16` VPC CIDR block to enforce strict perimeter security.
-* Isolated critical EC2 compute workloads from direct internet exposure by stripping public IPv4 allocations and implementing route tables targeting redundant NAT Gateways per AZ.
-* Successfully verified unidirectional outbound traffic flow to enable secure software updates and package management (e.g., `apt-get`) while blocking all internet-initiated inbound risks.
+I'm a professional with 18+ years of experience in production environments and technical operations, currently transitioning into Cloud and DevOps.
+
+My focus is on building reliable and automated cloud infrastructure using modern DevOps practices.
+
+### Current Focus
+
+- AWS Cloud
+- Terraform
+- Docker
+- Kubernetes
+- GitHub Actions
+- Linux Administration
+- Infrastructure as Code
+- CI/CD Automation
 
 ---
 
-## SKILLS & METHODOLOGIES
-* **Architecture Standards:** Multi-AZ high availability, Single Point of Failure (SPOF) mitigation, security tiering.
-* **Systems Management:** User provisioning, permissions enforcement, server troubleshooting, shell automation.
-* **Professional Attributes:** Structured documentation, technical writing, continuous self-directed upskilling.
+## 🛠️ Technical Skills
+
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+IAM • Route53 • RDS • CloudWatch • ALB • Auto Scaling • S3
+
+### DevOps
+
+Terraform • Docker • Kubernetes • GitHub Actions • Git
+
+### Linux
+
+Ubuntu • CentOS • Fedora • Bash • SSH
+
+### Development
+
+Python • Flask • REST APIs • PostgreSQL
+
+### Networking
+
+TCP/IP • DNS • DHCP • VPN • HTTP/HTTPS
+
+---
+
+## 📜 Certifications
+
+✅ AWS Certified Solutions Architect Associate (SAA-C03)
+
+✅ AWS Certified Cloud Practitioner (CLF-C02)
+
+✅ Linux Foundation – LFS101x
+
+✅ Cisco Networking Academy – Introduction to Networks
+
+🔄 Kubernetes (INFO94 - College Bois-de-Boulogne)
+
+---
+
+## 📂 Featured Projects
+
+### 🚀 Northstar
+
+CI/CD Pipeline using:
+
+- Flask
+- Docker
+- Terraform
+- AWS EC2
+- GitHub Actions
+
+Highlights:
+
+- Containerized application
+- Infrastructure provisioned with Terraform
+- Automated GitHub Actions workflows
+- Docker Hub integration
+
+---
+
+### 🎫 OpsDesk
+
+IT Ticket Management Application
+
+Stack:
+
+- Flask
+- PostgreSQL
+- Docker
+- REST API
+- Pytest
+
+Currently evolving into a complete DevOps deployment project.
+
+---
+
+### ☁️ AWS High Availability Infrastructure
+
+Personal Lab
+
+Features:
+
+- Custom VPC
+- Public/Private Subnets
+- Application Load Balancer
+- Auto Scaling Group
+- CloudWatch Monitoring
+- IAM Roles & Policies
+
+---
+
+## 🎯 2026 Goals
+
+- Complete Kubernetes training
+- Deploy applications to Amazon EKS
+- Build end-to-end GitOps workflows
+- Strengthen Infrastructure as Code practices
+- Land my first DevOps / Cloud Engineer role
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/yahiaouiraouf
+
+GitHub:
+github.com/yahiaouiraouf216
+
+Email:
+yahiaouiraouf216@gmail.com
