@@ -2,18 +2,6 @@
 
 ## Junior DevOps / Cloud Engineer
 
-## Junior DevOps / Cloud Engineer
-4
- 
-5
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraformite
-6
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=dge&logo=docker&logoColor=white
-7
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColortps://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=oColor=black
-8
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python=white
-
 AWS Certified Solutions Architect Associate (SAA-C03) passionate about Cloud Infrastructure, Automation, CI/CD and Container Technologies.
 
 Based in Montreal, Canada 🇨🇦
