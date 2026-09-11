@@ -1,21 +1,7 @@
 # 👋 Hi, I'm Raouf Yahiaoui
 
 ## Junior DevOps / Cloud Engineer
-x
-AWS Certified Solutions Architect Associate (SAA-C03)
- DevOps / Cloud Engineer
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonawslor=white
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?-badge&logo=terraform&logoColor=white
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?styleadge&logo=docker&logoColor=white
-
-![GitHub Actions](https://img.shields.io/badge/Git?style=for-the-badge&logo=github-actions&logoColor=white
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?stylebadge&logo=linux&logoColor=black
-``
-x
 AWS Certified Solutions Architect Associate (SAA-C03) passionate about Cloud Infrastructure, Automation, CI/CD and Container Technologies.
 
 Based in Montreal, Canada 🇨🇦
