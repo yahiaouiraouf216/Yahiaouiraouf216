@@ -34,6 +34,48 @@ Currently transitioning into Cloud Engineering and DevOps with a strong focus on
 - 📈 Monitoring & Observability
 
 ---
+📂 Featured Projects
+🚀 [ResilienceOps]([url](https://github.com/yahiaouiraouf216/Resilienceops))
+End-to-end DevOps project demonstrating:
+
+CI/CD
+Docker
+Terraform
+AWS
+Kubernetes
+Monitoring
+Chaos Engineering
+Self-healing
+Repository:
+
+github.com/yahiaouiraouf216/Resilienceops
+
+🚀 Northstar
+End-to-end DevOps Pipeline
+
+Stack:
+
+AWS
+Terraform
+Docker
+GitHub Actions
+Flask
+Features:
+
+Infrastructure as Code
+Automated Deployment
+Containerized Application
+CI/CD Workflow
+🎫 OpsDesk
+IT Ticket Management Platform
+
+Flask
+PostgreSQL
+Docker
+REST API
+Automated Testing
+
+
 
 ## 🛠️ Tech Stack
 
