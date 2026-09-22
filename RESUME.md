@@ -1,140 +1,57 @@
 # 👋 Hi, I'm Raouf Yahiaoui
 
-## Junior DevOps / Cloud Engineer
+## DevOps & Cloud Engineer | AWS Certified Solutions Architect Associate (SAA-C03)
 
-AWS Certified Solutions Architect Associate (SAA-C03) passionate about Cloud Infrastructure, Automation, CI/CD and Container Technologies.
+I'm a Cloud & DevOps enthusiast based in Montreal, Canada 🇨🇦, with 18+ years of experience in production environments and technical operations.
 
-Based in Montreal, Canada 🇨🇦
-
----
-
-## 🚀 About Me
-
-I'm a professional with 18+ years of experience in production environments and technical operations, currently transitioning into Cloud and DevOps.
-
-My focus is on building reliable and automated cloud infrastructure using modern DevOps practices.
-
-### Current Focus
-
-- AWS Cloud
-- Terraform
-- Docker
-- Kubernetes
-- GitHub Actions
-- Linux Administration
-- Infrastructure as Code
-- CI/CD Automation
+Currently transitioning into Cloud Engineering and DevOps with a strong focus on AWS, Infrastructure as Code, Automation, Containers and CI/CD.
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 Current Focus
 
-### Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+- ☁️ AWS Cloud
+- 🏗️ Infrastructure as Code (Terraform)
+- 🐳 Docker
+- ☸️ Kubernetes (In Progress)
+- 🔄 CI/CD Automation
+- 🖥️ Linux Administration
+- 🔐 Cloud Security Fundamentals
+- 📈 Monitoring & Observability
 
-IAM • Route53 • RDS • CloudWatch • ALB • Auto Scaling • S3
+---
 
-### DevOps
+## 🛠️ Tech Stack
 
-Terraform • Docker • Kubernetes • GitHub Actions • Git
+### Cloud & Infrastructure
 
-### Linux
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=-badge&logo=amazonaws&logoColor=white
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badgerm&logoColor=white
+
+**AWS Services**
+
+EC2 • S3 • IAM • VPC • Route53 • CloudWatch • RDS • ALB • Auto Scaling • Lambda
+
+---
+
+### DevOps & Automation
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-=docker&logoColor=white
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-white
+![Git](https://img.shields.io/badge/Git-F05032?or-the-badge&logo=git&logoColor=white
+
+Terraform • Docker • GitHub Actions • CI/CD • Git
+
+---
+
+### Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-o=linux&logoColor=black
 
 Ubuntu • CentOS • Fedora • Bash • SSH
 
+---
+
 ### Development
 
-Python • Flask • REST APIs • PostgreSQL
-
-### Networking
-
-TCP/IP • DNS • DHCP • VPN • HTTP/HTTPS
-
----
-
-## 📜 Certifications
-
-✅ AWS Certified Solutions Architect Associate (SAA-C03)
-
-✅ AWS Certified Cloud Practitioner (CLF-C02)
-
-✅ Linux Foundation – LFS101x
-
-✅ Cisco Networking Academy – Introduction to Networks
-
-🔄 Kubernetes (INFO94 - College Bois-de-Boulogne)
-
----
-
-## 📂 Featured Projects
-
-### 🚀 Northstar
-
-CI/CD Pipeline using:
-
-- Flask
-- Docker
-- Terraform
-- AWS EC2
-- GitHub Actions
-
-Highlights:
-
-- Containerized application
-- Infrastructure provisioned with Terraform
-- Automated GitHub Actions workflows
-- Docker Hub integration
-
----
-
-### 🎫 OpsDesk
-
-IT Ticket Management Application
-
-Stack:
-
-- Flask
-- PostgreSQL
-- Docker
-- REST API
-- Pytest
-
-Currently evolving into a complete DevOps deployment project.
-
----
-
-### ☁️ AWS High Availability Infrastructure
-
-Personal Lab
-
-Features:
-
-- Custom VPC
-- Public/Private Subnets
-- Application Load Balancer
-- Auto Scaling Group
-- CloudWatch Monitoring
-- IAM Roles & Policies
-
----
-
-## 🎯 2026 Goals
-
-- Complete Kubernetes training
-- Deploy applications to Amazon EKS
-- Build end-to-end GitOps workflows
-- Strengthen Infrastructure as Code practices
-- Land my first DevOps / Cloud Engineer role
-
----
-
-## 📫 Connect With Me
-
-LinkedIn:
-www.linkedin.com/in/yahiaouiraouf
-
-GitHub:
-github.com/yahiaouiraouf216
-
-Email:
-yahiaouiraouf216@gmail.com
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&
