@@ -72,13 +72,6 @@ Terraform-based AWS infrastructure portfolio project for hands-on IaC practice.
 
 ---
 
-### 📊 GitHub Stats
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/apiuiraouf216&show_icons=true
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yahiaoucompact
----
-
 ### 🤝 Connect with me
 
 <p align="left">
